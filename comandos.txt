@@ -1,0 +1,11 @@
+cd //caminhos da pasta
+code . //abrir o codigo da pasta em que está
+
+yarn start //iniciar o banco de dados no terminal do codigo em que está
+
+-----------------------------------------------------------------------
+
+Comandos no CMD
+
+cd //caminhos da pasta
+yarn start //iniciar o banco para a pagina internet
